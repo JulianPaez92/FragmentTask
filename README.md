@@ -1,8 +1,7 @@
 # FragmentTask
 
 Simple Interest view(with hints before enter numbers)
-
-![Screenshot_4](https://user-images.githubusercontent.com/70548446/227087452-876a9227-4961-48d5-8d64-a5b97d777d6b.png)
+![Screenshot_4](https://user-images.githubusercontent.com/70548446/227088102-6a6c8016-7ef3-4bfc-bc9e-7b9e38cd92aa.png)
 
 Simple Interest view(after enter numbers)
 
