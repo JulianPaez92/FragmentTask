@@ -38,7 +38,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@id/buttonShowSIPage"
         android:name="com.example.fragment15task.SIFrag"
-        android:layout_margin="5dp"
+        android:layout_margin="55dp"
         tools:layout="@layout/fragment_simpleinterest_layout"
         >
 
